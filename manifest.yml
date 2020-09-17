@@ -1,5 +1,5 @@
 applications:
-    - name: fgdc
+    - name: mohaned
       path: .
       memory: 256M
       instances: 1
